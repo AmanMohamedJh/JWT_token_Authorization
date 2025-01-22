@@ -1,0 +1,11 @@
+here to run this project in your local 
+1. Download the zip folder and unzip it
+2. Add the folder to the VS code or any other editor
+3. Then open the terminal and run it using nodemon command to run the app.js
+    * nodemon app
+4. Then it will be running in the localhost 3000 port
+5. Go check it in a browser by adding the address
+    * http://localhost:3000/
+
+6. And VOILA you got it
+        
